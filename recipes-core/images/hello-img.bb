@@ -1,6 +1,6 @@
 SUMMARY = "hello"
 
-IMAGE_INSTALL += "hello"
+IMAGE_INSTALL += "packagegroup-core-boot hello"
 IMAGE_FEATURES += "splash"
 
 LICENSE = "MIT"
